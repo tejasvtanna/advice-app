@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "homepage": "https://tejasvtanna.github.io/",
+  "name": "advice-app",
+  "homepage": "https://tejasvtanna.github.io/advice-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
