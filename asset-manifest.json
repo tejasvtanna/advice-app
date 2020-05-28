@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/advice-app/static/css/main.478a95bd.chunk.css",
+    "main.js": "/advice-app/static/js/main.13a74728.chunk.js",
+    "main.js.map": "/advice-app/static/js/main.13a74728.chunk.js.map",
+    "runtime-main.js": "/advice-app/static/js/runtime-main.b99cda3a.js",
+    "runtime-main.js.map": "/advice-app/static/js/runtime-main.b99cda3a.js.map",
+    "static/js/2.6d89f97c.chunk.js": "/advice-app/static/js/2.6d89f97c.chunk.js",
+    "static/js/2.6d89f97c.chunk.js.map": "/advice-app/static/js/2.6d89f97c.chunk.js.map",
+    "index.html": "/advice-app/index.html",
+    "precache-manifest.daeecd4f2120ab9a5ae0c4f3f8f684ce.js": "/advice-app/precache-manifest.daeecd4f2120ab9a5ae0c4f3f8f684ce.js",
+    "service-worker.js": "/advice-app/service-worker.js",
+    "static/css/main.478a95bd.chunk.css.map": "/advice-app/static/css/main.478a95bd.chunk.css.map",
+    "static/js/2.6d89f97c.chunk.js.LICENSE.txt": "/advice-app/static/js/2.6d89f97c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/advice-app/static/media/city.91c109fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b99cda3a.js",
+    "static/js/2.6d89f97c.chunk.js",
+    "static/css/main.478a95bd.chunk.css",
+    "static/js/main.13a74728.chunk.js"
+  ]
+}
